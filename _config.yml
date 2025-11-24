@@ -86,7 +86,7 @@ author:
   location         : "Cambridge, MA"
   employer         :
   pubmed           : 
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=mxs-7RMAAAAJ&hl=en"
   email            : "rad.haghi@tufts.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  orcid            : 
+  linkedin         : "https://www.linkedin.com/in/rad-haghi-b8349522/"
+  orcid            : "https://orcid.org/0000-0001-6868-5892" 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

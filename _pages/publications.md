@@ -64,6 +64,3 @@ author_profile: true
 
 * **Wind Energy Science Conference**, Cork, Ireland: "Surrogate models for unsteady aerodynamics using non-intrusive Polynomial Chaos Expansions"
 
----
-
-For more details, see my [Google Scholar profile](https://scholar.google.com) or [CV](/cv/).
