@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rad Haghi"
-  avatar           : "images/head_shop.jpg"
+  avatar           : "head_shop.jpg"
   bio              : "Postdoctoral Scholar at Tufts University focusing on physics-aware machine learning for infrastructure systems"
   location         : "Cambridge, MA"
   employer         :
